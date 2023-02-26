@@ -31,7 +31,7 @@ T20 Cricket World cup Project: Players Performance Insights:
 
 *Used bright data web scraping tool to collect data from ESPN Cricinfo website then, performed some data transformation and cleaning in pandas, followed by building dashboards in power bi.  
 
-  *An ultimate end-to-end data analytics project involves several stages such as data collection, data cleaning, Exploratory data analysis, Feature engineering, Model building, and Model deployment.
+  *An ultimate end-to-end data analytics project involves several stages such as data collection, data cleaning, Exploratory data analysis,Model building, and Model deployment.
 
   
  #Main Dashboard:
