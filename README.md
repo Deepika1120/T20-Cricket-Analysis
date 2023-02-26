@@ -25,7 +25,7 @@ T20 Cricket World cup Project: Players Performance Insights:
 
 *In this end-to-end data analytics project, I have used cricket T20 world cup (2022) data to build insights on a best 11 players team.
 
-* Best 11 players should be mix of Openers, Middle orders, Power Hitters & Bowlers based on T20 Cricket World cup performance.
+* Best 11 players should be mix of Power Hitters, Anchors / Middle Orders,Finishers, All Rounders & Bowlers based on T20 Cricket World cup performance.
 
 *Used web scraping (pull data from the ESPN Cricinfo website), Python, Pandas, and PowerBI tools to perform this data analytics projects.
 
