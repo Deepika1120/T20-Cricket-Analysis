@@ -1,8 +1,9 @@
-# T20-Cricket-Data-Analysis-Project:
+# T20-Cricket-Data-Analysis Project:Players Performance Insights:
 
-Thank you for code basics Team.Mr. Hemanand Vadivel And Mr.Dhaval Patel for giving this knowledge gained cricket Project.
+Thank you for code basics Team for giving this knowledge gained cricket Project.
 
-##Over view of this project:
+##Project Process flow:
+
 1.Problem Statement
 
 2.Requirement scoping
@@ -11,22 +12,22 @@ Thank you for code basics Team.Mr. Hemanand Vadivel And Mr.Dhaval Patel for givi
 
 4.Data cleaning and transformation in Python Pandas
 
-5.Data transformation in Power Query
+5.Data transformation in Power Query editor using PowerBI
 
 6.Data modeling and building parameters using DAX
 
-7.Build dashboard in Power BI
+7.Build dashboard in PowerBI
 
 8.Collect insights from the dashboard and select the final 11 players
 
-Title:
+##Over view of this project:
 T20 Cricket World cup Project: Players Performance Insights:
 
 *In this end-to-end data analytics project, I have used cricket T20 world cup (2022) data to build insights on a best 11 players team.
 
 * Best 11 players should be mix of Openers, Middle orders, Power Hitters & Bowlers based on T20 Cricket World cup performance.
 
-*Used web scraping (pull data from the ESPN Cricinfo website), Python, Pandas, and Power BI tools to perform this data analytics projects.
+*Used web scraping (pull data from the ESPN Cricinfo website), Python, Pandas, and PowerBI tools to perform this data analytics projects.
 
 *Used bright data web scraping tool to collect data from ESPN Cricinfo website then, performed some data transformation and cleaning in pandas, followed by building dashboards in power bi.  
 
