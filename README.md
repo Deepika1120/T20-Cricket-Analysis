@@ -19,19 +19,19 @@ Thank you for code basics Team.Mr. Hemanand Vadivel And Mr.Dhaval Patel for givi
 
 8.Collect insights from the dashboard and select the final 11 players
 
-##Problem Statement:
+Title:
+T20 Cricket World cup Project: Players Performance Insights:
 
-  *we will cover web scraping (from the ESPN Cricinfo website), python, pandas, and Power BI to perform analyses on T20 world cup cricket data.
-  
-  *In this end-to-end data analytics project I have used cricket T20 world cup (2022) data to build insights on a best 11 players team that we can assemble from the
-  
-  earth that can go and play with aliens. Then used bright data web scraping to collect data from espncricinfo website then we performed some data transformation and
-  
-  cleaning in pandas, followed by building dashboards in power bi.
-  
-  *An ultimate end-to-end data analytics project involves several stages such as data collection, data cleaning, exploratory data analysis, feature engineering, 
-  
-  model building, and model deployment. In this explanation, we will take a cricket dataset as an example to illustrate each stage of the project.
+*In this end-to-end data analytics project, I have used cricket T20 world cup (2022) data to build insights on a best 11 players team.
+
+* Best 11 players should be mix of Openers, Middle orders, Power Hitters & Bowlers based on T20 Cricket World cup performance.
+
+*Used web scraping (pull data from the ESPN Cricinfo website), Python, Pandas, and Power BI tools to perform this data analytics projects.
+
+*Used bright data web scraping tool to collect data from ESPN Cricinfo website then, performed some data transformation and cleaning in pandas, followed by building dashboards in power bi.  
+
+  *An ultimate end-to-end data analytics project involves several stages such as data collection, data cleaning, Exploratory data analysis, Feature engineering, Model building, and Model deployment.
+
   
  #Main Dashboard:
   
