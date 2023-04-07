@@ -1,6 +1,5 @@
 # T20-Cricket-Data-Analysis Project:Players Performance Insights:
 
-Thank you for code basics Team for giving this knowledge gained cricket Project.
 
 ##Project Process flow:
 
